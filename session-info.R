@@ -1,0 +1,3 @@
+#session-info.R
+
+sessionInfo()
